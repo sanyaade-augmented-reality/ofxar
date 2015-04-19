@@ -1,0 +1,1 @@
+Building on existing Openframeworks-ARToolkitPlus work, this aims to provide a simple wrapper for OF.
